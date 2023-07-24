@@ -1,0 +1,9 @@
+html {
+    scroll-behavior: smooth;
+}
+.screen{
+    z-index: 100;
+    position: absolute;
+    background: white;
+    width: 100%;
+}
